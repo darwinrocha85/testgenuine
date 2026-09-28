@@ -85,8 +85,8 @@ DELETE /clients/{id}  # Delete client
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/darwinrocha85/testgenuine.git
+cd testgenuine
 
 # Ensure Java 17+ and Maven are installed
 
